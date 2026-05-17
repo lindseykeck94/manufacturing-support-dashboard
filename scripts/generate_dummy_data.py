@@ -50,10 +50,58 @@ technicians = [
     "Riley Johnson"
 ]
 
+machine_types = [
+    "CNC Mill",
+    "Packaging Line",
+    "Injection Molder",
+    "Conveyor",
+    "Quality Scanner",
+    "Label Printer",
+    "Robot Arm"
+    "Industrial Oven"
+]
+
+production_lines = [
+    "Line A",
+    "Line B",
+    "Line C",
+    "Quality",
+    "Packaging"
+]
+
+locations = [
+    "Plant 1",
+    "Plant 2",
+    "Warehouse"
+]
+
+criticality_levels = [
+    "Low",
+    "Medium",
+    "High",
+    "Critical"
+]
+
+roles = [
+    "IT Support Technician",
+    "Systems Administrator",
+    "Maintenance Technician",
+    "Production Supervisor",
+    "Quality Analyst",
+    "Admin Coordinator"
+    "ERP Analyst"
+]
+
+shifts = [
+    "Day",
+    "Evening",
+    "Night"
+]
+
 # Generate fake tickets
 tickets = []
 
-for i in range(1, 101):
+for i in range(1, 251):
     created_date = fake.date_time_between(start_date="-6M", end_date="now")
 
     status = random.choices(
@@ -88,3 +136,66 @@ tickets_df = pd.DataFrame(tickets)
 tickets_df.to_csv(RAW_DATA_DIR / "tickets.csv", index=False)
 
 print("Created tickets.csv successfully.")
+
+# Generate fake machines
+machines = []
+
+for i in range(1, 31):
+    machine_type = random.choice(machine_types)
+
+    machine = {
+        "machine_id": f"MCH-{100 + i}",
+        "machine_name": f"{machine_type} {i:02d}",
+        "machine_type": machine_type,
+        "production_line": random.choice(production_lines),
+        "location": random.choice(locations),
+        "install_year": random.randint(2005, 2024),
+        "criticality": random.choice(criticality_levels)
+    }
+
+    machines.append(machine)
+
+# Convert list of machines into a table
+machines_df = pd.DataFrame(machines)
+
+# Save the table as a CSV file
+machines_df.to_csv(RAW_DATA_DIR / "machines.csv", index=False)
+
+print("Created machines.csv successfully.")
+
+# Generate fake employees
+employees = []
+
+for i in range(1, 51):
+    role = random.choice(roles)
+
+    if role in ["IT Support Technician", "Systems Administrator"]:
+        department = "IT"
+    elif role == "Maintenance Technician":
+        department = "Maintenance"
+    elif role == "Quality Analyst":
+        department = "Quality"
+    elif role == "Production Supervisor":
+        department = "Production"
+    elif role == "ERP Analyst":
+        department = "IT"
+    else:
+        department = "Admin Office"
+
+    employee = {
+        "employee_id": f"EMP-{1000 + i}",
+        "employee_name": fake.name(),
+        "role": role,
+        "department": department,
+        "shift": random.choice(shifts)
+    }
+
+    employees.append(employee)
+
+# Convert list of employees into a table
+employees_df = pd.DataFrame(employees)
+
+# Save the table as a CSV file
+employees_df.to_csv(RAW_DATA_DIR / "employees.csv", index=False)
+
+print("Created employees.csv successfully.")

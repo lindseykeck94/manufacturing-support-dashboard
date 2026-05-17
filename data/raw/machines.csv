@@ -1,0 +1,31 @@
+machine_id,machine_name,machine_type,production_line,location,install_year,criticality
+MCH-101,Quality Scanner 01,Quality Scanner,Line B,Warehouse,2021,High
+MCH-102,Packaging Line 02,Packaging Line,Quality,Plant 1,2014,Critical
+MCH-103,Injection Molder 03,Injection Molder,Quality,Plant 1,2011,Low
+MCH-104,Injection Molder 04,Injection Molder,Line B,Warehouse,2007,High
+MCH-105,Quality Scanner 05,Quality Scanner,Line A,Plant 2,2019,High
+MCH-106,Injection Molder 06,Injection Molder,Line C,Plant 1,2011,Low
+MCH-107,CNC Mill 07,CNC Mill,Quality,Warehouse,2008,High
+MCH-108,Conveyor 08,Conveyor,Packaging,Warehouse,2009,Critical
+MCH-109,CNC Mill 09,CNC Mill,Packaging,Plant 1,2008,Critical
+MCH-110,Quality Scanner 10,Quality Scanner,Quality,Plant 1,2017,Medium
+MCH-111,Injection Molder 11,Injection Molder,Quality,Warehouse,2015,Medium
+MCH-112,Label Printer 12,Label Printer,Line C,Warehouse,2006,Low
+MCH-113,Injection Molder 13,Injection Molder,Line B,Plant 1,2006,High
+MCH-114,Packaging Line 14,Packaging Line,Quality,Plant 1,2011,Critical
+MCH-115,Conveyor 15,Conveyor,Line A,Warehouse,2012,Low
+MCH-116,Label Printer 16,Label Printer,Packaging,Plant 1,2020,Medium
+MCH-117,CNC Mill 17,CNC Mill,Line B,Plant 2,2017,Medium
+MCH-118,CNC Mill 18,CNC Mill,Quality,Plant 1,2020,Low
+MCH-119,Conveyor 19,Conveyor,Quality,Plant 1,2023,Medium
+MCH-120,CNC Mill 20,CNC Mill,Line B,Plant 1,2023,High
+MCH-121,Injection Molder 21,Injection Molder,Line C,Plant 1,2022,High
+MCH-122,Injection Molder 22,Injection Molder,Packaging,Warehouse,2016,Low
+MCH-123,Injection Molder 23,Injection Molder,Packaging,Plant 2,2006,High
+MCH-124,CNC Mill 24,CNC Mill,Packaging,Plant 2,2012,Critical
+MCH-125,Quality Scanner 25,Quality Scanner,Line B,Warehouse,2008,High
+MCH-126,Injection Molder 26,Injection Molder,Line B,Plant 1,2020,Medium
+MCH-127,Packaging Line 27,Packaging Line,Line B,Plant 2,2023,Critical
+MCH-128,Robot ArmIndustrial Oven 28,Robot ArmIndustrial Oven,Packaging,Warehouse,2023,Medium
+MCH-129,Injection Molder 29,Injection Molder,Quality,Plant 2,2023,Low
+MCH-130,Injection Molder 30,Injection Molder,Line C,Warehouse,2016,Critical
