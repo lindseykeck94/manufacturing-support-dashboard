@@ -1,0 +1,31 @@
+machine_id,machine_name,machine_type,production_line,location,install_year,criticality,machine_age_years
+MCH-101,CNC Mill 01,CNC Mill,Quality,Plant 2,2009,High,18
+MCH-102,Robot ArmIndustrial Oven 02,Robot ArmIndustrial Oven,Line C,Plant 2,2022,Medium,5
+MCH-103,Label Printer 03,Label Printer,Quality,Warehouse,2012,Critical,15
+MCH-104,CNC Mill 04,CNC Mill,Line B,Warehouse,2015,Critical,12
+MCH-105,Robot ArmIndustrial Oven 05,Robot ArmIndustrial Oven,Line C,Warehouse,2016,High,11
+MCH-106,Quality Scanner 06,Quality Scanner,Line A,Plant 1,2020,High,7
+MCH-107,Injection Molder 07,Injection Molder,Line B,Plant 1,2014,Medium,13
+MCH-108,Quality Scanner 08,Quality Scanner,Line B,Plant 1,2020,Low,7
+MCH-109,Injection Molder 09,Injection Molder,Line A,Plant 1,2016,Critical,11
+MCH-110,Packaging Line 10,Packaging Line,Quality,Plant 1,2021,High,6
+MCH-111,Robot ArmIndustrial Oven 11,Robot ArmIndustrial Oven,Line B,Plant 1,2018,Low,9
+MCH-112,Packaging Line 12,Packaging Line,Packaging,Plant 1,2018,High,9
+MCH-113,CNC Mill 13,CNC Mill,Packaging,Warehouse,2013,High,14
+MCH-114,Conveyor 14,Conveyor,Line C,Warehouse,2007,Critical,20
+MCH-115,Packaging Line 15,Packaging Line,Packaging,Warehouse,2019,High,8
+MCH-116,CNC Mill 16,CNC Mill,Line C,Plant 2,2010,Low,17
+MCH-117,Packaging Line 17,Packaging Line,Line B,Warehouse,2021,Critical,6
+MCH-118,Conveyor 18,Conveyor,Line B,Warehouse,2024,Critical,3
+MCH-119,Injection Molder 19,Injection Molder,Line C,Plant 2,2008,Low,19
+MCH-120,Injection Molder 20,Injection Molder,Line C,Warehouse,2023,Medium,4
+MCH-121,Packaging Line 21,Packaging Line,Quality,Plant 1,2019,High,8
+MCH-122,Packaging Line 22,Packaging Line,Packaging,Warehouse,2017,Critical,10
+MCH-123,Label Printer 23,Label Printer,Line C,Plant 1,2016,High,11
+MCH-124,CNC Mill 24,CNC Mill,Line A,Plant 1,2017,High,10
+MCH-125,CNC Mill 25,CNC Mill,Line B,Plant 1,2007,High,20
+MCH-126,Quality Scanner 26,Quality Scanner,Line B,Plant 2,2019,Critical,8
+MCH-127,Packaging Line 27,Packaging Line,Line C,Plant 2,2011,Medium,16
+MCH-128,Injection Molder 28,Injection Molder,Line A,Plant 1,2017,High,10
+MCH-129,Quality Scanner 29,Quality Scanner,Quality,Plant 2,2014,High,13
+MCH-130,Packaging Line 30,Packaging Line,Line C,Plant 2,2005,Low,22

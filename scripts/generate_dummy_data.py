@@ -199,3 +199,49 @@ employees_df = pd.DataFrame(employees)
 employees_df.to_csv(RAW_DATA_DIR / "employees.csv", index=False)
 
 print("Created employees.csv successfully.")
+
+# Generate fake downtime events
+downtime_reasons = [
+    "Mechanical failure",
+    "Network disconnect",
+    "Sensor fault",
+    "Operator error",
+    "Preventive maintenance",
+    "Software interface issue",
+    "Power interruption",
+    "Unknown"
+]
+
+planned_unplanned_options = [
+    "Planned",
+    "Unplanned"
+]
+
+downtime_events = []
+
+machine_ids = machines_df["machine_id"].tolist()
+
+for i in range(1, 301):
+    start_time = fake.date_time_between(start_date="-6M", end_date="now")
+    downtime_minutes = random.randint(15, 480)
+    end_time = start_time + timedelta(minutes=downtime_minutes)
+
+    downtime_event = {
+        "downtime_id": f"DT-{1000 + i}",
+        "machine_id": random.choice(machine_ids),
+        "start_time": start_time,
+        "end_time": end_time,
+        "downtime_minutes": downtime_minutes,
+        "downtime_reason": random.choice(downtime_reasons),
+        "planned_unplanned": random.choice(planned_unplanned_options)
+    }
+
+    downtime_events.append(downtime_event)
+
+# Convert list of downtime events into a table
+downtime_df = pd.DataFrame(downtime_events)
+
+# Save the table as a CSV file
+downtime_df.to_csv(RAW_DATA_DIR / "downtime_events.csv", index=False)
+
+print("Created downtime_events.csv successfully.")

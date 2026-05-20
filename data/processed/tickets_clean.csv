@@ -1,0 +1,251 @@
+ticket_id,created_date,closed_date,status,priority,category,department,technician,description,resolution_time_hours,sla_target_hours,sla_met,created_year,created_month,created_month_name,created_year_month
+TCK-1001,2026-05-10 13:36:15,2026-05-12 09:36:15,Closed,High,Machine Interface,Finance,Taylor Nguyen,Central claim perform science whether our check agency kitchen if couple.,44.0,8,False,2026,5,May,2026-05
+TCK-1002,2026-05-17 11:11:02,2026-05-22 10:11:02,Closed,Medium,Network,Production,Riley Johnson,Central number road act economic tend kid physical expert Republican listen.,119.0,24,False,2026,5,May,2026-05
+TCK-1003,2026-03-31 18:59:26,2026-04-02 09:59:26,Closed,High,ERP / Business System,Quality,Riley Johnson,Treat and month now reach maintain game sell address attention.,39.0,8,False,2026,3,March,2026-03
+TCK-1004,2026-04-06 05:57:19,2026-04-09 12:57:19,Closed,High,Hardware,Quality,Riley Johnson,Leg employee through model seek foreign model near page fall.,79.0,8,False,2026,4,April,2026-04
+TCK-1005,2026-04-04 09:25:15,,Open,Critical,Hardware,Production,Morgan Patel,Shake finish then win city whole.,,4,,2026,4,April,2026-04
+TCK-1006,2026-01-01 16:32:28,2026-01-04 05:32:28,Closed,Medium,Printer / Scanner,IT,Casey Brooks,Visit walk husband decade know buy resource activity.,61.0,24,False,2026,1,January,2026-01
+TCK-1007,2026-03-02 17:01:43,,Open,Medium,ERP / Business System,IT,Casey Brooks,Economic road break serious whatever draw stand a writer end machine public player.,,24,,2026,3,March,2026-03
+TCK-1008,2025-11-25 04:13:11,,In Progress,Low,Printer / Scanner,Finance,Taylor Nguyen,Write but fill resource on particularly benefit run.,,96,,2025,11,November,2025-11
+TCK-1009,2025-11-28 21:21:19,2025-11-29 23:21:19,Closed,High,Login / Access,Quality,Morgan Patel,Until debate yourself body role girl main consider us many sound woman.,26.0,8,False,2025,11,November,2025-11
+TCK-1010,2026-05-20 05:29:13,,In Progress,Critical,Data Issue,Production,Casey Brooks,According author pretty lot kid service.,,4,,2026,5,May,2026-05
+TCK-1011,2026-03-28 16:44:50,2026-04-02 13:44:50,Closed,High,Data Issue,Production,Morgan Patel,Station appear argue improve girl spend base both act page.,117.0,8,False,2026,3,March,2026-03
+TCK-1012,2026-01-31 11:31:07,,In Progress,Low,Software,IT,Casey Brooks,Open weight table amount standard war skin fight difficult produce as.,,96,,2026,1,January,2026-01
+TCK-1013,2026-02-08 21:00:50,2026-02-09 15:00:50,Closed,High,Data Issue,IT,Jordan Lee,Election money perhaps analysis every across term need say.,18.0,8,False,2026,2,February,2026-02
+TCK-1014,2026-01-03 14:40:36,,In Progress,Critical,Printer / Scanner,Finance,Morgan Patel,Image military control attack central perform event write strategy message.,,4,,2026,1,January,2026-01
+TCK-1015,2026-04-26 11:03:09,,In Progress,High,Login / Access,Engineering,Riley Johnson,National time major hair reach popular government guess.,,8,,2026,4,April,2026-04
+TCK-1016,2026-03-20 03:03:53,2026-03-22 08:03:53,Closed,Critical,Manufacturing System,Production,Riley Johnson,Prove computer somebody face executive hand quality last break yeah reality.,53.0,4,False,2026,3,March,2026-03
+TCK-1017,2026-02-15 20:27:03,,In Progress,High,Manufacturing System,Maintenance,Taylor Nguyen,Continue to environmental fill executive usually.,,8,,2026,2,February,2026-02
+TCK-1018,2026-04-24 06:19:33,2026-04-25 18:19:33,Closed,High,Machine Interface,Finance,Jordan Lee,Current movement early with off article stock Congress case run.,36.0,8,False,2026,4,April,2026-04
+TCK-1019,2026-04-26 01:38:46,2026-04-27 13:38:46,Closed,Low,Printer / Scanner,Shipping,Casey Brooks,Property condition ground occur bring figure address job.,36.0,96,True,2026,4,April,2026-04
+TCK-1020,2025-12-27 18:50:30,2025-12-29 15:50:30,Closed,Medium,Hardware,Finance,Riley Johnson,Moment professor player recognize charge hand far try learn morning need.,45.0,24,False,2025,12,December,2025-12
+TCK-1021,2026-01-28 07:54:49,,Open,Medium,Hardware,Finance,Riley Johnson,Rate learn enjoy agency walk figure plan language.,,24,,2026,1,January,2026-01
+TCK-1022,2026-04-10 23:37:02,2026-04-13 03:37:02,Closed,Critical,Machine Interface,Production,Riley Johnson,Place which between name benefit road where read statement marriage wind sure strategy.,52.0,4,False,2026,4,April,2026-04
+TCK-1023,2026-04-10 20:26:30,,Open,Medium,Software,HR,Jordan Lee,Short could newspaper important treat of.,,24,,2026,4,April,2026-04
+TCK-1024,2026-04-23 22:30:07,,In Progress,Critical,ERP / Business System,Admin Office,Taylor Nguyen,Rich white eye game leg meet assume career teacher bar military success.,,4,,2026,4,April,2026-04
+TCK-1025,2026-03-30 21:07:24,2026-04-04 07:07:24,Closed,Low,Data Issue,HR,Riley Johnson,College PM become simply huge effort none player memory work land later.,106.0,96,False,2026,3,March,2026-03
+TCK-1026,2025-11-21 16:04:48,2025-11-25 14:04:48,Closed,Critical,Hardware,Maintenance,Riley Johnson,Sense until decision become player election might time history statement thought scene.,94.0,4,False,2025,11,November,2025-11
+TCK-1027,2026-04-27 15:06:35,,Open,Critical,Printer / Scanner,Shipping,Riley Johnson,Huge positive but set industry against.,,4,,2026,4,April,2026-04
+TCK-1028,2026-03-17 09:22:27,,In Progress,Critical,Login / Access,Shipping,Taylor Nguyen,Cover simply back PM bag offer nor decide cover data talk lawyer significant.,,4,,2026,3,March,2026-03
+TCK-1029,2026-05-14 17:26:40,2026-05-16 04:26:40,Closed,High,Data Issue,Maintenance,Jordan Lee,Certainly view at ask they approach four make who least team soldier.,35.0,8,False,2026,5,May,2026-05
+TCK-1030,2026-04-06 07:50:22,,In Progress,Critical,Software,HR,Taylor Nguyen,Purpose until detail deal place provide oil.,,4,,2026,4,April,2026-04
+TCK-1031,2026-03-03 15:08:39,2026-03-05 08:08:39,Closed,Critical,Manufacturing System,Quality,Jordan Lee,Lead test these several what always religious never view know generation purpose.,41.0,4,False,2026,3,March,2026-03
+TCK-1032,2026-01-29 01:51:22,2026-01-29 05:51:22,Closed,Medium,Hardware,Maintenance,Morgan Patel,This card change special issue commercial past wife total middle voice land.,4.0,24,True,2026,1,January,2026-01
+TCK-1033,2026-02-12 15:55:44,2026-02-13 04:55:44,Closed,Low,Data Issue,IT,Jordan Lee,To process be remain true clearly gun hundred perform why billion note crime represent.,13.0,96,True,2026,2,February,2026-02
+TCK-1034,2025-12-31 23:01:07,,In Progress,Low,Hardware,HR,Morgan Patel,Art fact hot occur well scene attack factor tonight age best.,,96,,2025,12,December,2025-12
+TCK-1035,2025-11-30 09:16:17,2025-12-04 05:16:17,Closed,Low,Printer / Scanner,Admin Office,Morgan Patel,Eye wide treatment example number fly cold just either.,92.0,96,True,2025,11,November,2025-11
+TCK-1036,2026-02-04 05:38:00,2026-02-04 09:38:00,Closed,Critical,Printer / Scanner,Shipping,Taylor Nguyen,Call summer two chair whom speech behind vote simply understand every great.,4.0,4,True,2026,2,February,2026-02
+TCK-1037,2026-02-03 17:30:51,,Open,Medium,Software,IT,Casey Brooks,Every down you either compare effort town.,,24,,2026,2,February,2026-02
+TCK-1038,2026-05-10 16:17:54,2026-05-13 20:17:54,Closed,Low,Software,Shipping,Riley Johnson,Among feeling manage rise resource modern over benefit experience care carry let.,76.0,96,True,2026,5,May,2026-05
+TCK-1039,2026-01-10 00:09:34,2026-01-10 08:09:34,Closed,High,Data Issue,IT,Riley Johnson,Investment civil try here system movie decide information pay tax feel available summer.,8.0,8,True,2026,1,January,2026-01
+TCK-1040,2026-04-30 19:48:00,2026-05-02 18:48:00,Closed,Low,Network,Quality,Morgan Patel,Agency boy among worker we light sea economy argue road research firm mean.,47.0,96,True,2026,4,April,2026-04
+TCK-1041,2026-04-06 22:28:35,,In Progress,Critical,Machine Interface,HR,Riley Johnson,Common baby need difference quite study Mr establish.,,4,,2026,4,April,2026-04
+TCK-1042,2026-01-10 10:45:24,2026-01-13 11:45:24,Closed,Critical,Login / Access,Admin Office,Morgan Patel,Maybe author along spend local manage force new evening blue.,73.0,4,False,2026,1,January,2026-01
+TCK-1043,2026-04-05 04:59:01,2026-04-07 14:59:01,Closed,Critical,Manufacturing System,Engineering,Riley Johnson,Region future his former action party wide indeed show natural.,58.0,4,False,2026,4,April,2026-04
+TCK-1044,2025-12-30 09:04:41,,Open,High,Software,Admin Office,Morgan Patel,Unit tough choose determine decide well friend collection artist at his meeting fact.,,8,,2025,12,December,2025-12
+TCK-1045,2026-03-16 21:08:54,2026-03-17 21:08:54,Closed,Low,Hardware,Quality,Riley Johnson,Note father ball good fall foot help shake seat data memory understand peace.,24.0,96,True,2026,3,March,2026-03
+TCK-1046,2026-01-04 07:15:54,2026-01-06 07:15:54,Closed,Critical,Software,Quality,Morgan Patel,Produce voice situation must newspaper hour difference.,48.0,4,False,2026,1,January,2026-01
+TCK-1047,2026-01-12 15:28:00,,In Progress,Critical,Login / Access,Finance,Jordan Lee,Successful fast little else difference spring fight this buy day.,,4,,2026,1,January,2026-01
+TCK-1048,2026-04-20 02:07:25,2026-04-24 23:07:25,Closed,Medium,Login / Access,Maintenance,Riley Johnson,I either girl over represent north money friend.,117.0,24,False,2026,4,April,2026-04
+TCK-1049,2025-12-31 23:21:24,,In Progress,High,Data Issue,Admin Office,Morgan Patel,I available far door sometimes success future.,,8,,2025,12,December,2025-12
+TCK-1050,2026-03-20 06:19:54,2026-03-23 08:19:54,Closed,Critical,Data Issue,HR,Morgan Patel,Response weight night white fly message seem writer perhaps action.,74.0,4,False,2026,3,March,2026-03
+TCK-1051,2026-04-11 21:22:43,2026-04-16 07:22:43,Closed,Low,Data Issue,Production,Riley Johnson,Campaign involve always consider its continue radio story board early.,106.0,96,False,2026,4,April,2026-04
+TCK-1052,2026-05-09 09:14:07,,Open,Medium,Network,Admin Office,Jordan Lee,Republican act wear wind analysis order.,,24,,2026,5,May,2026-05
+TCK-1053,2026-04-30 21:16:23,,In Progress,Critical,Printer / Scanner,Engineering,Riley Johnson,Provide seat garden strong most impact station place right find add.,,4,,2026,4,April,2026-04
+TCK-1054,2026-04-09 15:39:58,2026-04-11 04:39:58,Closed,High,ERP / Business System,Quality,Riley Johnson,These mission his through quite sound true must range recognize hear open glass.,37.0,8,False,2026,4,April,2026-04
+TCK-1055,2026-01-20 19:27:52,2026-01-21 20:27:52,Closed,Critical,Data Issue,Finance,Taylor Nguyen,Design threat agency evidence decide day life easy wait lot activity phone.,25.0,4,False,2026,1,January,2026-01
+TCK-1056,2025-11-23 17:11:43,2025-11-24 15:11:43,Closed,Critical,Printer / Scanner,Production,Taylor Nguyen,Walk prepare reduce religious career hope student box half recent building.,22.0,4,False,2025,11,November,2025-11
+TCK-1057,2026-04-30 00:43:23,2026-05-03 22:43:23,Closed,Medium,Manufacturing System,Admin Office,Riley Johnson,Store each north yeah nation spring.,94.0,24,False,2026,4,April,2026-04
+TCK-1058,2026-03-14 18:58:04,,In Progress,Medium,Software,Maintenance,Morgan Patel,Home professor space around threat bad Congress care rock wish sport threat.,,24,,2026,3,March,2026-03
+TCK-1059,2026-05-17 09:24:00,,In Progress,High,Software,Maintenance,Morgan Patel,Economy yet response western culture late inside style and.,,8,,2026,5,May,2026-05
+TCK-1060,2026-04-22 07:17:58,2026-04-22 20:17:58,Closed,Medium,Network,Quality,Taylor Nguyen,Food attorney thought amount song peace.,13.0,24,True,2026,4,April,2026-04
+TCK-1061,2026-03-16 15:00:18,,In Progress,Critical,Printer / Scanner,Admin Office,Morgan Patel,Generation herself I participant decade in glass onto food notice.,,4,,2026,3,March,2026-03
+TCK-1062,2026-03-04 05:59:51,2026-03-08 23:59:51,Closed,High,Machine Interface,Engineering,Taylor Nguyen,Culture perform reach stage point avoid life thought investment deal.,114.0,8,False,2026,3,March,2026-03
+TCK-1063,2026-01-17 20:51:12,2026-01-18 21:51:12,Closed,Medium,Printer / Scanner,Quality,Morgan Patel,Enough born less policy probably those serious store.,25.0,24,False,2026,1,January,2026-01
+TCK-1064,2026-01-17 09:52:16,2026-01-21 19:52:16,Closed,Critical,Data Issue,Finance,Morgan Patel,Reveal film deep week staff American growth.,106.0,4,False,2026,1,January,2026-01
+TCK-1065,2026-01-24 15:49:35,2026-01-28 12:49:35,Closed,Critical,Machine Interface,Maintenance,Jordan Lee,Effort involve prepare gun catch ok commercial chance democratic.,93.0,4,False,2026,1,January,2026-01
+TCK-1066,2025-11-30 22:26:02,,In Progress,Medium,Software,Shipping,Morgan Patel,State yes office writer already quickly green fight.,,24,,2025,11,November,2025-11
+TCK-1067,2026-04-21 20:24:25,,In Progress,Low,Data Issue,Quality,Casey Brooks,Step market itself message enough play music.,,96,,2026,4,April,2026-04
+TCK-1068,2026-02-23 23:42:44,,Open,Critical,Hardware,IT,Casey Brooks,Benefit bad sound raise again coach to yard floor anyone lead end defense.,,4,,2026,2,February,2026-02
+TCK-1069,2026-02-13 08:02:26,2026-02-15 08:02:26,Closed,Critical,Login / Access,Shipping,Taylor Nguyen,Result year force watch billion wait chair front certainly its.,48.0,4,False,2026,2,February,2026-02
+TCK-1070,2025-12-18 21:28:01,2025-12-20 18:28:01,Closed,Medium,Machine Interface,Production,Taylor Nguyen,Number particular care trade garden read break under thing support.,45.0,24,False,2025,12,December,2025-12
+TCK-1071,2026-04-22 20:26:50,2026-04-25 07:26:50,Closed,High,Login / Access,Finance,Casey Brooks,First unit morning heart also kind nothing very situation manager media.,59.0,8,False,2026,4,April,2026-04
+TCK-1072,2026-02-27 10:00:33,2026-03-04 00:00:33,Closed,Critical,Manufacturing System,Finance,Casey Brooks,Speak thought green claim think line summer suffer pay build crime prove.,110.0,4,False,2026,2,February,2026-02
+TCK-1073,2026-01-04 01:52:48,,In Progress,Critical,Machine Interface,Maintenance,Casey Brooks,Western spend parent training purpose accept time daughter modern front.,,4,,2026,1,January,2026-01
+TCK-1074,2026-05-09 17:02:14,2026-05-11 06:02:14,Closed,High,Data Issue,Shipping,Taylor Nguyen,Expert reason blood step left any area gas ahead perhaps weight try.,37.0,8,False,2026,5,May,2026-05
+TCK-1075,2026-01-16 01:26:04,2026-01-16 15:26:04,Closed,Low,Login / Access,Finance,Casey Brooks,Total often do any unit agree theory necessary while quality health left.,14.0,96,True,2026,1,January,2026-01
+TCK-1076,2025-11-18 19:14:02,,In Progress,Medium,Machine Interface,HR,Morgan Patel,Newspaper really life manage course tonight compare sure relate.,,24,,2025,11,November,2025-11
+TCK-1077,2026-04-22 15:42:56,2026-04-24 00:42:56,Closed,High,Manufacturing System,Maintenance,Riley Johnson,Despite because movie build human lead my worry positive.,33.0,8,False,2026,4,April,2026-04
+TCK-1078,2026-04-05 12:51:11,,In Progress,Low,Data Issue,Quality,Riley Johnson,Already single international another consumer if drive.,,96,,2026,4,April,2026-04
+TCK-1079,2026-03-19 08:03:12,,Open,High,Printer / Scanner,Quality,Riley Johnson,Account ago how along think election focus lawyer firm increase.,,8,,2026,3,March,2026-03
+TCK-1080,2026-05-03 00:36:37,,Open,Medium,Hardware,IT,Jordan Lee,Author someone evidence state age subject onto me.,,24,,2026,5,May,2026-05
+TCK-1081,2026-03-31 02:16:49,2026-04-03 09:16:49,Closed,Low,Manufacturing System,IT,Morgan Patel,Former sister over night though shoulder read security successful.,79.0,96,True,2026,3,March,2026-03
+TCK-1082,2026-03-16 12:54:16,,In Progress,High,Login / Access,Maintenance,Morgan Patel,Recently pull including according month manager home.,,8,,2026,3,March,2026-03
+TCK-1083,2026-04-22 07:52:31,,Open,Medium,ERP / Business System,Production,Jordan Lee,Second always remain despite quite avoid clear what pick direction week.,,24,,2026,4,April,2026-04
+TCK-1084,2025-11-29 03:51:52,,Open,Medium,Software,Shipping,Riley Johnson,Course today shake member western they alone resource opportunity.,,24,,2025,11,November,2025-11
+TCK-1085,2026-02-01 21:26:34,2026-02-06 04:26:34,Closed,Medium,Data Issue,Admin Office,Jordan Lee,Book break name gas long life up new join.,103.0,24,False,2026,2,February,2026-02
+TCK-1086,2026-03-11 00:14:47,2026-03-11 10:14:47,Closed,Critical,Network,Admin Office,Taylor Nguyen,Production they their degree interest team offer.,10.0,4,False,2026,3,March,2026-03
+TCK-1087,2025-12-12 22:45:37,,Open,Low,Login / Access,HR,Casey Brooks,Choose interest would conference write significant also sing feeling near.,,96,,2025,12,December,2025-12
+TCK-1088,2026-04-27 13:12:13,2026-04-27 18:12:13,Closed,Low,Software,Finance,Casey Brooks,Rather hair onto concern by participant stage.,5.0,96,True,2026,4,April,2026-04
+TCK-1089,2026-04-03 06:34:54,,In Progress,Low,Hardware,Shipping,Riley Johnson,Design heart wrong experience opportunity morning today under.,,96,,2026,4,April,2026-04
+TCK-1090,2026-02-03 11:57:07,2026-02-03 17:57:07,Closed,Low,Network,Quality,Casey Brooks,Develop organization until summer agency huge amount newspaper image.,6.0,96,True,2026,2,February,2026-02
+TCK-1091,2025-12-21 02:02:56,,In Progress,Low,ERP / Business System,Quality,Jordan Lee,This on professional reflect figure career personal agent help black usually.,,96,,2025,12,December,2025-12
+TCK-1092,2025-12-19 06:38:30,2025-12-21 23:38:30,Closed,Medium,ERP / Business System,IT,Casey Brooks,Laugh east black student chair require although action nice risk.,65.0,24,False,2025,12,December,2025-12
+TCK-1093,2026-03-30 12:44:38,,In Progress,Medium,Login / Access,Admin Office,Taylor Nguyen,Him huge soon less know picture area between analysis near form century fine.,,24,,2026,3,March,2026-03
+TCK-1094,2026-02-15 08:56:19,2026-02-20 04:56:19,Closed,Medium,Printer / Scanner,Admin Office,Morgan Patel,Child image not however director participant control.,116.0,24,False,2026,2,February,2026-02
+TCK-1095,2026-03-17 20:28:01,,Open,Critical,Login / Access,Finance,Casey Brooks,Ready manage man ever special involve.,,4,,2026,3,March,2026-03
+TCK-1096,2026-02-26 19:27:36,,In Progress,Critical,Manufacturing System,HR,Taylor Nguyen,She campaign soldier most cell different poor above.,,4,,2026,2,February,2026-02
+TCK-1097,2026-04-15 17:31:13,2026-04-20 05:31:13,Closed,Medium,Machine Interface,IT,Taylor Nguyen,Watch throw reason lay four north even page throw.,108.0,24,False,2026,4,April,2026-04
+TCK-1098,2025-12-14 16:52:39,2025-12-17 21:52:39,Closed,Medium,Network,Maintenance,Morgan Patel,American opportunity list interest trial generation wear exactly time report mouth small.,77.0,24,False,2025,12,December,2025-12
+TCK-1099,2025-12-23 04:00:54,,In Progress,Critical,Login / Access,Quality,Casey Brooks,Ball picture away few personal argue.,,4,,2025,12,December,2025-12
+TCK-1100,2025-12-29 06:31:47,2025-12-31 07:31:47,Closed,Medium,Manufacturing System,Production,Morgan Patel,Owner figure public good add lawyer sense.,49.0,24,False,2025,12,December,2025-12
+TCK-1101,2025-12-01 08:04:34,,Open,Low,Data Issue,Quality,Riley Johnson,End interest month onto response finish drive section station herself design one.,,96,,2025,12,December,2025-12
+TCK-1102,2025-12-28 14:20:44,,Open,Critical,Manufacturing System,Production,Morgan Patel,Outside adult provide energy some business stay appear provide question.,,4,,2025,12,December,2025-12
+TCK-1103,2026-01-19 06:05:10,2026-01-23 06:05:10,Closed,Low,Data Issue,IT,Casey Brooks,Anything professor tell fact professor last gas must court.,96.0,96,True,2026,1,January,2026-01
+TCK-1104,2026-03-03 16:51:27,2026-03-05 06:51:27,Closed,Critical,Data Issue,Engineering,Morgan Patel,Writer beat better series sea degree accept late.,38.0,4,False,2026,3,March,2026-03
+TCK-1105,2026-03-12 01:17:37,2026-03-16 09:17:37,Closed,High,Software,Production,Taylor Nguyen,Cover either physical old cultural whether suggest possible place him ahead.,104.0,8,False,2026,3,March,2026-03
+TCK-1106,2026-03-09 22:14:23,2026-03-10 01:14:23,Closed,Medium,Login / Access,HR,Taylor Nguyen,Wonder main sing feeling foot without star spring answer.,3.0,24,True,2026,3,March,2026-03
+TCK-1107,2026-01-20 10:46:51,2026-01-20 22:46:51,Closed,Critical,Software,Finance,Casey Brooks,Action then reduce Congress none wrong officer.,12.0,4,False,2026,1,January,2026-01
+TCK-1108,2026-03-04 23:12:24,2026-03-08 10:12:24,Closed,Critical,Network,Finance,Morgan Patel,Contain speech several time role single billion role meet drive six.,83.0,4,False,2026,3,March,2026-03
+TCK-1109,2026-05-06 08:44:01,,Open,Medium,ERP / Business System,Shipping,Taylor Nguyen,Expect cover purpose course social front.,,24,,2026,5,May,2026-05
+TCK-1110,2026-02-20 04:22:18,,Open,High,Machine Interface,Production,Jordan Lee,Building market teach story also early.,,8,,2026,2,February,2026-02
+TCK-1111,2025-12-22 00:09:20,2025-12-22 09:09:20,Closed,Low,Printer / Scanner,Admin Office,Jordan Lee,Radio ready consider trip threat show traditional safe grow culture economic.,9.0,96,True,2025,12,December,2025-12
+TCK-1112,2026-05-13 04:05:02,2026-05-15 23:05:02,Closed,Critical,Software,HR,Casey Brooks,Yeah kitchen artist rest scene town why total material system.,67.0,4,False,2026,5,May,2026-05
+TCK-1113,2025-12-19 11:17:01,2025-12-23 09:17:01,Closed,High,Login / Access,Finance,Riley Johnson,Better approach sell yard thus even from total.,94.0,8,False,2025,12,December,2025-12
+TCK-1114,2026-03-07 10:40:52,2026-03-10 11:40:52,Closed,High,Machine Interface,Admin Office,Casey Brooks,Goal like down half recently cell modern.,73.0,8,False,2026,3,March,2026-03
+TCK-1115,2026-02-23 00:09:44,,Open,Low,Machine Interface,Production,Jordan Lee,Popular science tax site window why anyone budget once responsibility.,,96,,2026,2,February,2026-02
+TCK-1116,2026-02-16 23:08:47,,In Progress,Critical,Hardware,Admin Office,Casey Brooks,Include sometimes able pay organization television professional.,,4,,2026,2,February,2026-02
+TCK-1117,2026-02-26 04:31:24,,Open,Low,Hardware,HR,Jordan Lee,Idea myself standard third marriage human.,,96,,2026,2,February,2026-02
+TCK-1118,2026-02-07 02:35:11,2026-02-10 01:35:11,Closed,High,Login / Access,Production,Taylor Nguyen,Area upon scene in candidate carry find save serious but hit citizen argue.,71.0,8,False,2026,2,February,2026-02
+TCK-1119,2026-03-04 21:12:02,2026-03-09 17:12:02,Closed,High,Hardware,Shipping,Taylor Nguyen,Certainly pressure fall American well kid offer out place line so garden.,116.0,8,False,2026,3,March,2026-03
+TCK-1120,2026-01-29 11:15:44,2026-02-02 06:15:44,Closed,Low,Hardware,Quality,Jordan Lee,Drive production item plan course watch baby believe per move data get.,91.0,96,True,2026,1,January,2026-01
+TCK-1121,2026-05-14 13:03:12,,Open,Critical,Hardware,Engineering,Morgan Patel,Well return baby rise already serious up indeed each young particular attack.,,4,,2026,5,May,2026-05
+TCK-1122,2025-11-25 18:45:51,,In Progress,Critical,Login / Access,Finance,Jordan Lee,Hour store against wall more institution common easy and field close away hour option.,,4,,2025,11,November,2025-11
+TCK-1123,2025-12-22 08:15:31,2025-12-24 03:15:31,Closed,Medium,Printer / Scanner,Production,Jordan Lee,Life too worker hundred community base read actually after.,43.0,24,False,2025,12,December,2025-12
+TCK-1124,2026-02-07 09:57:20,2026-02-11 01:57:20,Closed,High,Data Issue,Shipping,Casey Brooks,Away data southern television into difference notice.,88.0,8,False,2026,2,February,2026-02
+TCK-1125,2026-01-08 12:25:56,,Open,Medium,Data Issue,Maintenance,Jordan Lee,Fine can either common send imagine recognize safe issue.,,24,,2026,1,January,2026-01
+TCK-1126,2026-03-03 11:15:27,,Open,High,Login / Access,Shipping,Casey Brooks,Process place red art note wonder there same grow walk this born.,,8,,2026,3,March,2026-03
+TCK-1127,2026-04-12 20:45:58,,In Progress,Critical,Machine Interface,Quality,Casey Brooks,Help sort actually public bed describe up media several item control season.,,4,,2026,4,April,2026-04
+TCK-1128,2026-02-28 16:59:59,2026-02-28 20:59:59,Closed,Medium,ERP / Business System,Quality,Morgan Patel,Provide personal war half interesting dog.,4.0,24,True,2026,2,February,2026-02
+TCK-1129,2026-02-14 06:44:38,,In Progress,Critical,Machine Interface,IT,Morgan Patel,Hope them table thought everything poor week owner across individual quickly night.,,4,,2026,2,February,2026-02
+TCK-1130,2026-03-12 17:09:49,2026-03-17 07:09:49,Closed,High,Printer / Scanner,Finance,Casey Brooks,Become then cup class clear man gas because financial defense exist.,110.0,8,False,2026,3,March,2026-03
+TCK-1131,2026-03-16 10:47:09,,In Progress,Low,Network,IT,Riley Johnson,Front life cup start center add never do wide sense man affect.,,96,,2026,3,March,2026-03
+TCK-1132,2026-02-07 06:34:06,,Open,High,Software,Production,Morgan Patel,Across miss carry see image purpose off space reach gun.,,8,,2026,2,February,2026-02
+TCK-1133,2026-04-29 11:13:24,2026-04-29 14:13:24,Closed,High,Hardware,Maintenance,Jordan Lee,Sing she add open any write coach people daughter interview community.,3.0,8,True,2026,4,April,2026-04
+TCK-1134,2026-04-04 21:33:31,,Open,Critical,Manufacturing System,Quality,Jordan Lee,Control really half send discover themselves country officer economy build expert road.,,4,,2026,4,April,2026-04
+TCK-1135,2026-02-02 10:42:14,2026-02-03 22:42:14,Closed,High,Data Issue,Maintenance,Morgan Patel,Evening decision huge hope thing meeting need agreement culture but affect.,36.0,8,False,2026,2,February,2026-02
+TCK-1136,2025-11-27 02:53:43,,In Progress,High,Printer / Scanner,Engineering,Taylor Nguyen,Financial interesting successful loss new major situation either father anything establish often population.,,8,,2025,11,November,2025-11
+TCK-1137,2026-02-05 17:58:28,,In Progress,Critical,Machine Interface,Admin Office,Morgan Patel,Involve baby head hit education business I court easy.,,4,,2026,2,February,2026-02
+TCK-1138,2026-04-13 06:47:59,,In Progress,Low,Machine Interface,IT,Jordan Lee,My wide throughout this dream investment practice letter buy.,,96,,2026,4,April,2026-04
+TCK-1139,2026-01-24 15:29:03,,Open,High,Machine Interface,Engineering,Riley Johnson,Central country finish charge large support series cold almost chair.,,8,,2026,1,January,2026-01
+TCK-1140,2025-12-09 23:08:01,2025-12-14 08:08:01,Closed,Low,Manufacturing System,Admin Office,Taylor Nguyen,Keep around security recognize green likely fast free gas vote security father.,105.0,96,False,2025,12,December,2025-12
+TCK-1141,2026-03-25 07:24:31,,Open,Medium,Machine Interface,Finance,Casey Brooks,Follow agent guess shake though study lot eat top.,,24,,2026,3,March,2026-03
+TCK-1142,2026-02-09 04:00:38,2026-02-11 01:00:38,Closed,Low,Machine Interface,Admin Office,Morgan Patel,Fill image recognize health like drive.,45.0,96,True,2026,2,February,2026-02
+TCK-1143,2025-11-28 03:28:57,,Open,Critical,Software,Engineering,Casey Brooks,Economy put gun somebody win thought help box body meet source only base really.,,4,,2025,11,November,2025-11
+TCK-1144,2026-02-10 08:26:12,,Open,Low,ERP / Business System,IT,Casey Brooks,They economy recent Republican whose join sister down official cut buy whole plan.,,96,,2026,2,February,2026-02
+TCK-1145,2026-04-08 15:07:13,,In Progress,Low,Login / Access,Admin Office,Jordan Lee,Bag to door hard history science six those force right require.,,96,,2026,4,April,2026-04
+TCK-1146,2025-12-27 11:16:20,,Open,Medium,ERP / Business System,Production,Riley Johnson,Similar stand benefit baby fall discover senior food model learn current probably.,,24,,2025,12,December,2025-12
+TCK-1147,2025-11-23 19:39:00,2025-11-25 02:39:00,Closed,High,Manufacturing System,IT,Taylor Nguyen,Thank same around assume common because film positive then case tend owner study.,31.0,8,False,2025,11,November,2025-11
+TCK-1148,2026-02-14 02:25:46,2026-02-14 11:25:46,Closed,High,Manufacturing System,Maintenance,Casey Brooks,On hospital suffer part we debate course pay appear do half.,9.0,8,False,2026,2,February,2026-02
+TCK-1149,2026-04-11 12:49:43,,Open,Low,Hardware,Engineering,Taylor Nguyen,Anything begin seat control bring bill base arm response foreign training by.,,96,,2026,4,April,2026-04
+TCK-1150,2025-11-30 18:19:30,2025-12-05 04:19:30,Closed,Critical,Printer / Scanner,Shipping,Morgan Patel,Town some pay every already order summer fund store.,106.0,4,False,2025,11,November,2025-11
+TCK-1151,2026-02-28 07:19:01,,In Progress,Low,Login / Access,Admin Office,Taylor Nguyen,Customer miss society term finish number issue while include energy sure employee.,,96,,2026,2,February,2026-02
+TCK-1152,2025-12-07 02:54:49,2025-12-09 07:54:49,Closed,Medium,Manufacturing System,Maintenance,Casey Brooks,Early today beyond born force near go development say production.,53.0,24,False,2025,12,December,2025-12
+TCK-1153,2026-04-22 20:23:44,,Open,Critical,ERP / Business System,Production,Jordan Lee,Two fund mention call condition subject join plant list size process.,,4,,2026,4,April,2026-04
+TCK-1154,2026-04-11 20:53:26,,In Progress,High,Data Issue,Production,Taylor Nguyen,Back man show watch there there evening find push skin institution.,,8,,2026,4,April,2026-04
+TCK-1155,2026-04-13 17:38:45,2026-04-15 22:38:45,Closed,High,Hardware,Shipping,Riley Johnson,Record total young decision item system mouth reflect their.,53.0,8,False,2026,4,April,2026-04
+TCK-1156,2026-02-19 06:06:27,,Open,Medium,Hardware,Production,Riley Johnson,Than space cell east remain its free.,,24,,2026,2,February,2026-02
+TCK-1157,2026-05-06 07:04:47,,Open,Low,Machine Interface,Production,Morgan Patel,Watch recognize according couple think develop explain need.,,96,,2026,5,May,2026-05
+TCK-1158,2026-01-01 06:45:03,,Open,Critical,Printer / Scanner,Admin Office,Casey Brooks,Drive child describe after budget cause should hair bed.,,4,,2026,1,January,2026-01
+TCK-1159,2026-04-12 04:31:51,,In Progress,Medium,Printer / Scanner,HR,Morgan Patel,South continue Mrs prevent it door reality floor she.,,24,,2026,4,April,2026-04
+TCK-1160,2026-03-02 16:26:26,,In Progress,High,Machine Interface,Quality,Morgan Patel,Itself data whatever down book time later animal far practice yard.,,8,,2026,3,March,2026-03
+TCK-1161,2026-03-18 06:31:08,,In Progress,Low,Data Issue,Finance,Casey Brooks,Last degree officer back believe particular series station quality step.,,96,,2026,3,March,2026-03
+TCK-1162,2026-01-11 01:35:17,2026-01-14 12:35:17,Closed,Low,Machine Interface,Production,Riley Johnson,Eat fill position current resource light floor field push day put manage realize.,83.0,96,True,2026,1,January,2026-01
+TCK-1163,2025-12-22 00:31:23,2025-12-24 13:31:23,Closed,High,Printer / Scanner,Quality,Riley Johnson,There these trouble garden teacher least sit issue animal me sense hard role rest.,61.0,8,False,2025,12,December,2025-12
+TCK-1164,2025-11-26 12:41:50,2025-11-26 23:41:50,Closed,Medium,Software,Shipping,Casey Brooks,Magazine growth field enough material stage administration develop company.,11.0,24,True,2025,11,November,2025-11
+TCK-1165,2026-02-28 19:17:52,2026-03-05 03:17:52,Closed,Medium,Manufacturing System,Production,Morgan Patel,Behavior say party director yes wind first accept option.,104.0,24,False,2026,2,February,2026-02
+TCK-1166,2025-12-25 18:26:59,2025-12-26 09:26:59,Closed,Low,Network,IT,Taylor Nguyen,Hit chance family agreement most idea part no gas century.,15.0,96,True,2025,12,December,2025-12
+TCK-1167,2026-03-21 05:31:12,,In Progress,Low,Data Issue,Engineering,Morgan Patel,Sort marriage if produce onto which.,,96,,2026,3,March,2026-03
+TCK-1168,2026-05-05 07:05:11,2026-05-07 20:05:11,Closed,Medium,ERP / Business System,Finance,Casey Brooks,Will forget way rate provide rule.,61.0,24,False,2026,5,May,2026-05
+TCK-1169,2025-12-23 12:14:58,2025-12-25 08:14:58,Closed,Medium,ERP / Business System,Finance,Morgan Patel,Treat forget decision central here stock tree perform heavy marriage may message voice.,44.0,24,False,2025,12,December,2025-12
+TCK-1170,2025-12-08 16:57:52,2025-12-12 22:57:52,Closed,Critical,Login / Access,Shipping,Jordan Lee,Ten occur per popular almost kid get offer suffer board.,102.0,4,False,2025,12,December,2025-12
+TCK-1171,2025-12-03 06:33:21,,Open,Low,Data Issue,Engineering,Riley Johnson,Animal speak close standard special current building almost high.,,96,,2025,12,December,2025-12
+TCK-1172,2026-02-01 16:11:58,2026-02-04 10:11:58,Closed,High,Network,Quality,Jordan Lee,Physical body whose civil to lead ready serve manage.,66.0,8,False,2026,2,February,2026-02
+TCK-1173,2026-01-13 23:19:55,2026-01-18 11:19:55,Closed,Medium,ERP / Business System,Production,Morgan Patel,Happen condition difficult Republican can agreement dog rest may win his describe remember.,108.0,24,False,2026,1,January,2026-01
+TCK-1174,2026-01-15 19:54:43,2026-01-20 13:54:43,Closed,Critical,Hardware,Admin Office,Jordan Lee,Rock laugh high explain carry use power money this finish.,114.0,4,False,2026,1,January,2026-01
+TCK-1175,2026-04-27 20:57:21,,In Progress,Critical,Manufacturing System,IT,Jordan Lee,Current factor catch down however late less stop.,,4,,2026,4,April,2026-04
+TCK-1176,2026-01-20 19:08:47,2026-01-23 12:08:47,Closed,Critical,Hardware,Admin Office,Riley Johnson,Hand admit control day cell sea green agree government chance trouble.,65.0,4,False,2026,1,January,2026-01
+TCK-1177,2026-03-30 05:40:28,2026-03-31 01:40:28,Closed,High,ERP / Business System,Quality,Morgan Patel,Upon responsibility painting time owner why.,20.0,8,False,2026,3,March,2026-03
+TCK-1178,2025-11-30 20:56:05,2025-12-05 15:56:05,Closed,High,Network,Production,Casey Brooks,Factor consider develop nice every next week why them thing loss public.,115.0,8,False,2025,11,November,2025-11
+TCK-1179,2026-01-07 04:33:24,2026-01-08 02:33:24,Closed,Critical,Software,HR,Jordan Lee,Under age own international character agree.,22.0,4,False,2026,1,January,2026-01
+TCK-1180,2026-03-22 06:47:22,2026-03-23 20:47:22,Closed,Low,Network,Finance,Jordan Lee,Mission health might certain term challenge door with evening treat.,38.0,96,True,2026,3,March,2026-03
+TCK-1181,2026-03-12 21:07:28,2026-03-14 11:07:28,Closed,High,Manufacturing System,IT,Taylor Nguyen,Piece writer hear take certainly almost bit activity agent fund five draw realize.,38.0,8,False,2026,3,March,2026-03
+TCK-1182,2026-01-17 19:51:11,,Open,High,ERP / Business System,Engineering,Riley Johnson,Sport industry president continue put goal suddenly event television effect range system star.,,8,,2026,1,January,2026-01
+TCK-1183,2026-04-17 14:21:31,,In Progress,High,Software,IT,Casey Brooks,Art operation true many mind his road.,,8,,2026,4,April,2026-04
+TCK-1184,2026-04-17 04:01:18,2026-04-21 09:01:18,Closed,Critical,Data Issue,Production,Riley Johnson,Positive safe sea politics mean help store owner.,101.0,4,False,2026,4,April,2026-04
+TCK-1185,2026-04-02 20:45:27,,Open,Critical,Manufacturing System,HR,Jordan Lee,Sign exist expect answer arrive image.,,4,,2026,4,April,2026-04
+TCK-1186,2025-12-30 22:38:51,2025-12-31 05:38:51,Closed,Medium,Software,Maintenance,Morgan Patel,Budget discuss pattern air benefit lot interview his difficult including first impact.,7.0,24,True,2025,12,December,2025-12
+TCK-1187,2026-02-14 12:13:34,,Open,Low,Manufacturing System,Quality,Jordan Lee,Miss when develop himself theory star whose church store doctor.,,96,,2026,2,February,2026-02
+TCK-1188,2026-05-04 21:01:13,,Open,Medium,Hardware,Maintenance,Casey Brooks,Particularly of night consumer those century strong already phone.,,24,,2026,5,May,2026-05
+TCK-1189,2026-04-08 05:20:13,,In Progress,Critical,Software,Production,Casey Brooks,Just time today mission ok a partner be recently some.,,4,,2026,4,April,2026-04
+TCK-1190,2026-03-06 20:03:03,,Open,Medium,Data Issue,Engineering,Jordan Lee,Instead hair especially around camera reality physical officer bed.,,24,,2026,3,March,2026-03
+TCK-1191,2026-04-14 18:17:51,2026-04-15 03:17:51,Closed,Medium,Machine Interface,Shipping,Morgan Patel,Ability turn recently discussion somebody popular reach beyond reach here over.,9.0,24,True,2026,4,April,2026-04
+TCK-1192,2025-12-03 08:40:35,2025-12-04 08:40:35,Closed,Medium,Machine Interface,Maintenance,Jordan Lee,Quite theory during clear item debate sure enter Republican religious sport.,24.0,24,True,2025,12,December,2025-12
+TCK-1193,2026-04-05 03:58:02,,In Progress,Medium,Manufacturing System,HR,Casey Brooks,Science a study during professional discover which way paper possible age.,,24,,2026,4,April,2026-04
+TCK-1194,2026-01-05 04:57:52,2026-01-06 08:57:52,Closed,Critical,Manufacturing System,Shipping,Morgan Patel,Everything board visit so face tend long spend easy hit.,28.0,4,False,2026,1,January,2026-01
+TCK-1195,2026-03-18 10:08:49,,In Progress,Low,Data Issue,Admin Office,Taylor Nguyen,Man sea reduce reduce affect serve run blue character.,,96,,2026,3,March,2026-03
+TCK-1196,2026-03-09 11:12:08,2026-03-12 14:12:08,Closed,Critical,Manufacturing System,Finance,Casey Brooks,Least into development sister remember listen note nothing think grow.,75.0,4,False,2026,3,March,2026-03
+TCK-1197,2025-11-23 18:44:22,,Open,Critical,Login / Access,IT,Jordan Lee,Financial direction card nature nothing mother.,,4,,2025,11,November,2025-11
+TCK-1198,2025-12-30 08:14:45,,In Progress,Critical,Login / Access,Production,Riley Johnson,My officer at single increase effort soon.,,4,,2025,12,December,2025-12
+TCK-1199,2026-01-27 04:42:18,,In Progress,Low,Software,Maintenance,Casey Brooks,Realize walk weight federal notice high open smile require resource.,,96,,2026,1,January,2026-01
+TCK-1200,2026-04-04 00:47:50,2026-04-07 13:47:50,Closed,Low,Printer / Scanner,Production,Riley Johnson,Sometimes traditional everyone PM product responsibility specific.,85.0,96,True,2026,4,April,2026-04
+TCK-1201,2026-03-30 06:59:45,2026-03-31 10:59:45,Closed,Critical,ERP / Business System,HR,Riley Johnson,Republican anyone pressure quality north material himself no senior relationship south plant.,28.0,4,False,2026,3,March,2026-03
+TCK-1202,2026-03-14 01:51:43,2026-03-18 17:51:43,Closed,Critical,Login / Access,Admin Office,Jordan Lee,Include low according record fear reason investment the.,112.0,4,False,2026,3,March,2026-03
+TCK-1203,2026-03-28 03:28:00,2026-03-31 11:28:00,Closed,Medium,Printer / Scanner,Quality,Riley Johnson,Explain old goal again cold leave represent sound.,80.0,24,False,2026,3,March,2026-03
+TCK-1204,2026-02-26 03:40:36,,Open,Medium,Hardware,Quality,Jordan Lee,Be other record option anyone debate your region east lay idea assume.,,24,,2026,2,February,2026-02
+TCK-1205,2026-04-20 04:02:23,2026-04-23 14:02:23,Closed,High,Hardware,Maintenance,Morgan Patel,Include among story writer loss third dinner relate usually.,82.0,8,False,2026,4,April,2026-04
+TCK-1206,2026-02-14 13:12:27,,Open,Medium,Software,Quality,Riley Johnson,Some own thousand seven item type west mention energy cell soon read.,,24,,2026,2,February,2026-02
+TCK-1207,2026-02-16 04:06:32,2026-02-20 03:06:32,Closed,Critical,Machine Interface,Production,Taylor Nguyen,Billion race but leader sign plant key.,95.0,4,False,2026,2,February,2026-02
+TCK-1208,2026-03-03 18:59:02,,Open,Medium,ERP / Business System,Production,Jordan Lee,Game economic wife leave trip event former alone continue.,,24,,2026,3,March,2026-03
+TCK-1209,2026-02-10 11:07:41,2026-02-13 09:07:41,Closed,High,Manufacturing System,Quality,Casey Brooks,Pass after pretty able day now happy away name several.,70.0,8,False,2026,2,February,2026-02
+TCK-1210,2026-03-16 06:07:09,2026-03-21 06:07:09,Closed,Medium,Manufacturing System,Finance,Riley Johnson,Daughter member most very expect important never spend.,120.0,24,False,2026,3,March,2026-03
+TCK-1211,2026-03-01 23:52:11,,In Progress,High,Hardware,Shipping,Morgan Patel,Development trial Democrat effort around newspaper detail identify best.,,8,,2026,3,March,2026-03
+TCK-1212,2026-05-14 12:20:13,,Open,Low,ERP / Business System,Quality,Riley Johnson,Need TV available they sing news back.,,96,,2026,5,May,2026-05
+TCK-1213,2026-03-01 08:46:26,,Open,Medium,Login / Access,Engineering,Jordan Lee,Spring true region most school debate both of main this thus state.,,24,,2026,3,March,2026-03
+TCK-1214,2026-01-21 20:53:02,2026-01-25 13:53:02,Closed,Medium,Login / Access,Finance,Riley Johnson,Minute black radio institution relationship position watch mind grow receive threat significant.,89.0,24,False,2026,1,January,2026-01
+TCK-1215,2026-05-03 00:04:26,2026-05-04 18:04:26,Closed,Critical,Manufacturing System,Finance,Riley Johnson,Rock house war fire hard about.,42.0,4,False,2026,5,May,2026-05
+TCK-1216,2026-03-27 20:21:05,,In Progress,Critical,Network,Production,Morgan Patel,Staff cold still other music attack green structure traditional.,,4,,2026,3,March,2026-03
+TCK-1217,2026-04-30 07:00:21,,In Progress,Critical,Data Issue,Quality,Casey Brooks,Interest then assume site night include politics white piece.,,4,,2026,4,April,2026-04
+TCK-1218,2026-03-15 12:44:08,2026-03-20 00:44:08,Closed,High,Data Issue,Maintenance,Casey Brooks,Hold feel if treatment hotel read first.,108.0,8,False,2026,3,March,2026-03
+TCK-1219,2026-05-07 11:11:43,2026-05-12 07:11:43,Closed,Medium,Printer / Scanner,Admin Office,Morgan Patel,Kitchen almost policy always focus consider right eight.,116.0,24,False,2026,5,May,2026-05
+TCK-1220,2026-04-11 22:51:52,2026-04-12 02:51:52,Closed,High,Machine Interface,HR,Riley Johnson,Ability low bank compare ground particular listen real popular sport financial entire.,4.0,8,True,2026,4,April,2026-04
+TCK-1221,2025-12-09 09:12:47,2025-12-13 03:12:47,Closed,Medium,Software,Engineering,Taylor Nguyen,Manage enter power character form interesting nearly born.,90.0,24,False,2025,12,December,2025-12
+TCK-1222,2025-11-25 18:08:56,,Open,Low,Machine Interface,HR,Casey Brooks,Civil why study style about general he assume this result party.,,96,,2025,11,November,2025-11
+TCK-1223,2026-03-27 11:44:20,,In Progress,Low,ERP / Business System,Shipping,Casey Brooks,Peace among tonight speech wish charge.,,96,,2026,3,March,2026-03
+TCK-1224,2026-03-22 17:10:46,2026-03-24 16:10:46,Closed,Low,Data Issue,Finance,Taylor Nguyen,Everyone we blood cup role three season music area.,47.0,96,True,2026,3,March,2026-03
+TCK-1225,2026-04-10 01:08:37,,In Progress,Critical,Manufacturing System,Admin Office,Riley Johnson,Program partner month successful feel various ask peace green along man car yard.,,4,,2026,4,April,2026-04
+TCK-1226,2025-12-15 19:36:37,2025-12-17 21:36:37,Closed,Medium,Machine Interface,Maintenance,Morgan Patel,Pretty expert kind site common policy.,50.0,24,False,2025,12,December,2025-12
+TCK-1227,2026-01-05 16:58:04,2026-01-09 18:58:04,Closed,Medium,Printer / Scanner,Finance,Casey Brooks,Fund hand thank compare join although too right rather least.,98.0,24,False,2026,1,January,2026-01
+TCK-1228,2025-12-08 08:39:51,,Open,Critical,Software,IT,Taylor Nguyen,Girl people hard right gun more same card play section.,,4,,2025,12,December,2025-12
+TCK-1229,2026-03-29 18:26:42,,Open,Critical,ERP / Business System,Quality,Riley Johnson,Politics what return perhaps fly surface opportunity page actually team most.,,4,,2026,3,March,2026-03
+TCK-1230,2025-12-04 04:06:03,2025-12-07 01:06:03,Closed,Critical,Hardware,Admin Office,Casey Brooks,Particular thank commercial price amount talk seat participant PM knowledge set certainly.,69.0,4,False,2025,12,December,2025-12
+TCK-1231,2026-03-14 05:07:15,2026-03-15 07:07:15,Closed,High,Login / Access,HR,Morgan Patel,Institution play bit collection wide cut focus leader particular whose other.,26.0,8,False,2026,3,March,2026-03
+TCK-1232,2026-02-16 02:11:14,,Open,Low,Network,Engineering,Riley Johnson,Store media safe subject buy final.,,96,,2026,2,February,2026-02
+TCK-1233,2026-01-29 04:41:00,,In Progress,Low,Machine Interface,HR,Casey Brooks,Forget individual bank half write commercial author join audience argue hear.,,96,,2026,1,January,2026-01
+TCK-1234,2026-02-21 06:37:41,,In Progress,High,Network,Engineering,Casey Brooks,For message appear risk take would office.,,8,,2026,2,February,2026-02
+TCK-1235,2026-04-29 02:47:10,2026-05-02 21:47:10,Closed,Medium,Hardware,HR,Taylor Nguyen,Fear both attack true film age personal over trouble action agree quickly animal.,91.0,24,False,2026,4,April,2026-04
+TCK-1236,2026-04-09 16:59:07,2026-04-11 17:59:07,Closed,High,Software,Engineering,Jordan Lee,Whom for staff address assume police success later not city crime experience stop.,49.0,8,False,2026,4,April,2026-04
+TCK-1237,2025-12-21 00:25:42,2025-12-24 08:25:42,Closed,High,Network,Admin Office,Jordan Lee,Trouble detail wrong art always pick difficult indicate behind its their something.,80.0,8,False,2025,12,December,2025-12
+TCK-1238,2026-01-27 13:08:33,2026-01-30 20:08:33,Closed,Critical,Software,Production,Morgan Patel,Something learn major wall least them.,79.0,4,False,2026,1,January,2026-01
+TCK-1239,2026-03-04 05:58:38,2026-03-09 02:58:38,Closed,Low,Login / Access,Quality,Riley Johnson,Allow message analysis then southern result suddenly purpose federal oil.,117.0,96,False,2026,3,March,2026-03
+TCK-1240,2026-04-05 11:22:15,,In Progress,High,Machine Interface,Finance,Taylor Nguyen,Produce pretty build role nice body require onto for.,,8,,2026,4,April,2026-04
+TCK-1241,2026-02-04 13:58:54,2026-02-05 19:58:54,Closed,Medium,Login / Access,Engineering,Riley Johnson,Small series administration change together he your exactly free four lot.,30.0,24,False,2026,2,February,2026-02
+TCK-1242,2026-02-01 18:28:28,2026-02-04 09:28:28,Closed,Medium,Manufacturing System,Finance,Jordan Lee,They really skill street they in hear fly street test major.,63.0,24,False,2026,2,February,2026-02
+TCK-1243,2025-12-07 15:15:49,,In Progress,Medium,Printer / Scanner,Finance,Taylor Nguyen,Choose wide together player agreement student themselves executive.,,24,,2025,12,December,2025-12
+TCK-1244,2026-03-17 18:05:42,,In Progress,Critical,Hardware,Admin Office,Morgan Patel,Standard easy often research tend fact loss upon president fact brother join pretty.,,4,,2026,3,March,2026-03
+TCK-1245,2026-04-07 22:30:45,2026-04-12 06:30:45,Closed,Medium,Hardware,Maintenance,Taylor Nguyen,Those partner nature successful fact son close.,104.0,24,False,2026,4,April,2026-04
+TCK-1246,2026-01-14 10:21:35,2026-01-17 15:21:35,Closed,High,Printer / Scanner,IT,Casey Brooks,Per religious standard environmental member learn time raise policy court amount.,77.0,8,False,2026,1,January,2026-01
+TCK-1247,2026-04-06 12:25:31,2026-04-10 12:25:31,Closed,Critical,Hardware,IT,Riley Johnson,Positive defense modern local now exist which study.,96.0,4,False,2026,4,April,2026-04
+TCK-1248,2025-12-29 17:41:27,2025-12-30 03:41:27,Closed,High,Hardware,HR,Jordan Lee,History break marriage night public collection church source camera save.,10.0,8,False,2025,12,December,2025-12
+TCK-1249,2025-12-21 00:18:20,,Open,Critical,Printer / Scanner,Engineering,Taylor Nguyen,Write development star finally detail without prove exactly college land leader answer question.,,4,,2025,12,December,2025-12
+TCK-1250,2025-11-28 18:27:35,,Open,High,Hardware,IT,Casey Brooks,Laugh would price once nor do free.,,8,,2025,11,November,2025-11

@@ -1,51 +1,51 @@
 employee_id,employee_name,role,department,shift
-EMP-1001,Patricia Mason,Systems Administrator,IT,Evening
-EMP-1002,Danielle Tucker,Quality Analyst,Quality,Day
-EMP-1003,Kelly Scott,Production Supervisor,Production,Evening
-EMP-1004,Anna Walton,Production Supervisor,Production,Day
-EMP-1005,Kelsey Rice,Systems Administrator,IT,Evening
-EMP-1006,Elizabeth Gaines,Systems Administrator,IT,Night
-EMP-1007,Joseph Edwards,Maintenance Technician,Maintenance,Night
-EMP-1008,Marilyn Bailey,Maintenance Technician,Maintenance,Day
-EMP-1009,Victor Miller,Maintenance Technician,Maintenance,Day
-EMP-1010,Jacqueline Morales,IT Support Technician,IT,Evening
-EMP-1011,Cody Palmer,Admin CoordinatorERP Analyst,Admin Office,Evening
-EMP-1012,Diana Lee,IT Support Technician,IT,Night
-EMP-1013,Ashley Pineda,Quality Analyst,Quality,Day
-EMP-1014,Paul Hill,Production Supervisor,Production,Evening
-EMP-1015,Robert Harding,Quality Analyst,Quality,Evening
-EMP-1016,Hannah Erickson,Maintenance Technician,Maintenance,Night
-EMP-1017,Terrance Thomas,Quality Analyst,Quality,Night
-EMP-1018,David Holmes,Production Supervisor,Production,Evening
-EMP-1019,Rachel Davis,Maintenance Technician,Maintenance,Night
-EMP-1020,Vanessa Farley,Production Supervisor,Production,Day
-EMP-1021,Kelsey Murphy,Maintenance Technician,Maintenance,Day
-EMP-1022,Ashley Shaffer,Systems Administrator,IT,Night
-EMP-1023,Pamela Flores,Production Supervisor,Production,Evening
-EMP-1024,Linda Lee,Admin CoordinatorERP Analyst,Admin Office,Day
-EMP-1025,Paul Gonzalez,IT Support Technician,IT,Night
-EMP-1026,Marissa Taylor,Quality Analyst,Quality,Day
-EMP-1027,Michael Leach,Admin CoordinatorERP Analyst,Admin Office,Evening
-EMP-1028,Austin Miller,IT Support Technician,IT,Day
-EMP-1029,Richard Hatfield,Systems Administrator,IT,Day
-EMP-1030,Ruth Harper,Admin CoordinatorERP Analyst,Admin Office,Night
-EMP-1031,Alexander Martin,Admin CoordinatorERP Analyst,Admin Office,Night
-EMP-1032,Michael Kim,Production Supervisor,Production,Night
-EMP-1033,Roger Oneill,Quality Analyst,Quality,Night
-EMP-1034,Samantha Richards,Admin CoordinatorERP Analyst,Admin Office,Day
-EMP-1035,Leah Griffin,Admin CoordinatorERP Analyst,Admin Office,Night
-EMP-1036,Jasmine Richardson,IT Support Technician,IT,Night
-EMP-1037,Joseph Baker,Quality Analyst,Quality,Evening
-EMP-1038,Sonia Green,Production Supervisor,Production,Evening
-EMP-1039,Christine Collins,Admin CoordinatorERP Analyst,Admin Office,Night
-EMP-1040,Michael Luna,Maintenance Technician,Maintenance,Day
-EMP-1041,Thomas Williams,Maintenance Technician,Maintenance,Evening
-EMP-1042,Sara Pena,Maintenance Technician,Maintenance,Day
-EMP-1043,Martin Martin,Production Supervisor,Production,Evening
-EMP-1044,Lori Atkins,Production Supervisor,Production,Night
-EMP-1045,Nicholas Smith,Quality Analyst,Quality,Night
-EMP-1046,Felicia Herrera,Systems Administrator,IT,Evening
-EMP-1047,Kimberly Johnson,Maintenance Technician,Maintenance,Night
-EMP-1048,Daniel Hodges DDS,Systems Administrator,IT,Day
-EMP-1049,Danielle Smith,Production Supervisor,Production,Night
-EMP-1050,Christopher Lee,Production Supervisor,Production,Night
+EMP-1001,Robert Hahn,Admin CoordinatorERP Analyst,Admin Office,Day
+EMP-1002,Nathan Smith,Admin CoordinatorERP Analyst,Admin Office,Night
+EMP-1003,Eric Bryant,Systems Administrator,IT,Night
+EMP-1004,Alexandria Smith,IT Support Technician,IT,Day
+EMP-1005,Mr. Richard West,IT Support Technician,IT,Night
+EMP-1006,Norman Wagner,IT Support Technician,IT,Evening
+EMP-1007,Megan Parker,IT Support Technician,IT,Night
+EMP-1008,Heather Peterson,Maintenance Technician,Maintenance,Evening
+EMP-1009,Kristen Bowers,Systems Administrator,IT,Night
+EMP-1010,Eric Horn,Systems Administrator,IT,Day
+EMP-1011,Tina Bryant,IT Support Technician,IT,Night
+EMP-1012,Christopher Williams,Systems Administrator,IT,Day
+EMP-1013,Mrs. Stephanie Gomez,Maintenance Technician,Maintenance,Night
+EMP-1014,Joseph Lopez,Quality Analyst,Quality,Day
+EMP-1015,Amy Green,Quality Analyst,Quality,Day
+EMP-1016,James Cunningham,Production Supervisor,Production,Day
+EMP-1017,Charlotte Sharp,Quality Analyst,Quality,Day
+EMP-1018,Benjamin Soto,Maintenance Technician,Maintenance,Day
+EMP-1019,Brian Hoffman,Quality Analyst,Quality,Day
+EMP-1020,Allen Johnson,Quality Analyst,Quality,Day
+EMP-1021,Javier Robinson,Quality Analyst,Quality,Night
+EMP-1022,Christina Cummings,IT Support Technician,IT,Evening
+EMP-1023,Ryan Bryan,Quality Analyst,Quality,Night
+EMP-1024,Marissa Cobb,Production Supervisor,Production,Evening
+EMP-1025,David Lopez,Quality Analyst,Quality,Night
+EMP-1026,Christina Hamilton,Admin CoordinatorERP Analyst,Admin Office,Night
+EMP-1027,Daniel Mack,Admin CoordinatorERP Analyst,Admin Office,Night
+EMP-1028,Jason Baker,Systems Administrator,IT,Night
+EMP-1029,Barbara Blanchard,Production Supervisor,Production,Day
+EMP-1030,Jennifer Lewis,Production Supervisor,Production,Evening
+EMP-1031,Rachael Hill,Admin CoordinatorERP Analyst,Admin Office,Evening
+EMP-1032,Gregory Flores,Maintenance Technician,Maintenance,Day
+EMP-1033,Kimberly Mann,Maintenance Technician,Maintenance,Day
+EMP-1034,Kenneth Weaver,Production Supervisor,Production,Day
+EMP-1035,Bryan Smith,Maintenance Technician,Maintenance,Evening
+EMP-1036,Amy Davis,Production Supervisor,Production,Night
+EMP-1037,Dalton Mullins,Admin CoordinatorERP Analyst,Admin Office,Day
+EMP-1038,Anita Oconnor,IT Support Technician,IT,Night
+EMP-1039,Shelby Hernandez,Admin CoordinatorERP Analyst,Admin Office,Night
+EMP-1040,Timothy Hunt,Admin CoordinatorERP Analyst,Admin Office,Evening
+EMP-1041,Jenny Hernandez,IT Support Technician,IT,Night
+EMP-1042,Dan Cunningham,Systems Administrator,IT,Evening
+EMP-1043,Theresa Moore,Admin CoordinatorERP Analyst,Admin Office,Evening
+EMP-1044,Johnathan Harris,Maintenance Technician,Maintenance,Evening
+EMP-1045,Madison Lopez,Production Supervisor,Production,Day
+EMP-1046,Kevin Garcia,IT Support Technician,IT,Night
+EMP-1047,Nathan Rogers,Systems Administrator,IT,Night
+EMP-1048,Leah Ramirez,Production Supervisor,Production,Day
+EMP-1049,Matthew Smith,Maintenance Technician,Maintenance,Night
+EMP-1050,Holly Webb,Admin CoordinatorERP Analyst,Admin Office,Day
